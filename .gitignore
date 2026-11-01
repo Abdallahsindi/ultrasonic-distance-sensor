@@ -1,0 +1,18 @@
+# OS
+.DS_Store
+
+# MikroC / compiler build intermediates (regenerated on build; the .hex is kept)
+*.brk
+*.cp
+*.cfg
+*.dbg
+*.dct
+*.dlt
+*.lst
+*.mcl
+*.mcppi_callertable.txt
+*.user.dic
+*.log
+
+# Proteus auto-saved backups
+Project Backups/
